@@ -1,11 +1,12 @@
 body {
-  text-align: left;
-  background: url("images/music_room.jpg") ;
+  text-align: center;
+  background: url("images/vinyl.jpg");
   background-size: cover;
-  color: #eef1ef;
+  color: #5e6572;
   font-family: Helvetica;
+  font-weight: 32px;
 }
-
-p {
-  font-size: 22px;
+hr{
+  width: 200px;
+  color: #7d98a1;
 }
