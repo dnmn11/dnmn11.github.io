@@ -1,0 +1,11 @@
+body {
+  text-align: left;
+  background: url("images/music_room.jpeg");
+  background-size: cover;
+  color: #fff;
+  font-family: Helvetica;
+}
+
+p {
+  font-size: 22px;
+}
